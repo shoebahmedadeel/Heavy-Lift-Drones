@@ -1,5 +1,13 @@
 # Payload-Delivery-Drone
-This Multi-rotor is designed and tested for carrying 2Kgs of payload for a flight time of 30mins. The payload can be anywhere
-between 2-5Kgs with reduced endurance of upto 18mins.
+
+    The market is going crazy about the heavy lift drones that can transport pacakages from
+  one place to another. But developing such a system is not as easy as it seems to be or 
+  looks like. There is a lot of effort put by the engineers and developers to get it vehicle
+  airbone for so many number of hours before they get it in the market.
+    For bigger projects like Amazons it would take a long time for them to deploy their systems
+  but eventually in next few years people struggling to create to day to day scenario of using 
+  drones will be the major players not only in developing drones but also the market that it 
+  would open up because of numerous applications that we cannot stop thinking about right now.
+  
 
 https://www.youtube.com/watch?v=c_tPmKaX2ao
