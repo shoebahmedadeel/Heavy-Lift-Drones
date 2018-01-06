@@ -1,4 +1,4 @@
-# Payload-Delivery-Drone
+# Heavy-Lift-Drone
 
   The market is going crazy about the heavy lift drones that can transport pacakages from
   one place to another. But developing such a system is not as easy as it seems to be or 
